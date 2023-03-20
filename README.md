@@ -1,5 +1,6 @@
 # Learning_
 Practicing classic machine learning models
+
 This folder contains a set of mini-projects in which I practiced my skills in applying different types of classical machine learning.
 
 ### **EDA_Vizualization**
