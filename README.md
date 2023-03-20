@@ -1,7 +1,7 @@
 # Learning_
 Practicing classic machine learning models.
 
-This folder contains a set of mini-projects in which I practiced my skills in applying different types of classical machine learning.
+Repository contains a set of my mini-projects in which I practiced my skills in applying different types of classical machine learning.
 
 ### **EDA_Vizualization**
 The Exploratory Data Analysis of the House Prices dataset was carried out. I used data from [Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) or file train.csv which is in this directory. Different visualization methods (numpy.triu, seaborn.heatmap, seaborn.pairplot) were used to study the correlation between the features. Hypotheses about differences in terms of features were formulated. The analysis of the missing values in the dataset  was carried out (missingno.matrix, missingno.bar, missingno.heatmap).
